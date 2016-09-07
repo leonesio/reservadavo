@@ -1,5 +1,5 @@
 # reservadavo
-Projeto desenvolvido para ser apresentado a disciplina Engenharia de Software, da UFERSA campus Pau dos Ferros</br>
+Projeto desenvolvido para ser apresentado a disciplina Engenharia de Software, da UFERSA campus Pau dos Ferros
 # Desenvolvedores:
 CASSIANO PERIN DE CARVALHO
 FRANCISCO LEONÉSIO CARNEIRO DUARTE
